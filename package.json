@@ -7,6 +7,7 @@
   , "dependencies": {
       "redis": "0.7.2"
     , "express": "2.5.11"
+	, "moment" : "1.7.x"
     , "jade": "0.26.3"
     , "stylus": "0.27.2"
     , "nib": "0.5.0"
